@@ -1,0 +1,19 @@
+h1{
+    color: blueviolet;
+    direction:rtl;
+    letter-spacing: 10px;
+    text-align: center;
+    text-decoration: line line-through;
+    text-transform: uppercase;
+    text text-shadow: 15px 15px 15px gray;
+}
+body{
+    background-color: blanchedalmond;
+
+}
+img {
+    width:500px;
+    height:500px;
+    border:10px solid black;
+    filter:drop-shadow(5px 10px 8px);
+}

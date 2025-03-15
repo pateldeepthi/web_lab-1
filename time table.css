@@ -1,0 +1,21 @@
+.mon{
+    background-color: rgb(21, 132, 230);
+
+    color: rgb(169, 212, 39);
+}
+.tue{
+    background-color: aqua;
+    color: rgb(24, 17, 223);
+}
+.wed{
+    background-color: cadetblue ;
+    color: cornsilk;
+}
+.thur{
+    background-color: black;
+    color: bisque;
+}
+.fri{
+    background-color: darkgreen;
+    color: lightcyan;
+}
