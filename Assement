@@ -1,0 +1,796 @@
+body{
+
+
+
+    background-image: url(ee2faa1840e5c3c292643c386ee3a5cf.jpg);
+
+
+    background-repeat: repeat;
+
+
+    background-position: 0%;
+
+
+    background-attachment: local;
+
+
+    background-color: black;
+
+
+}
+
+
+     
+
+
+
+
+
+body{
+
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+    font-style: italic;
+
+
+    font-weight: 600;
+
+
+    font-size: 10px;
+
+
+}
+
+Collapse file: asssignment.html‎asssignment.html
+Copy file name to clipboard+28Lines changed: 28 additions & 0 deletions
+Original file line numberDiff line numberDiff line change
+@@ -0,0 +1,28 @@
+
+
+<!DOCTYPE html>
+
+
+<html lang="en">
+
+
+<head>
+
+
+    <meta charset="UTF-8">
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <title>Document</title>
+
+
+    <link rel="stylesheet" href="assignmnet.css">
+
+
+</head>
+
+
+<body>
+
+
+    <div id="box">
+
+
+        <p>
+
+
+            Chandhu
+
+
+        </p>
+
+
+    </div>
+
+
+    <h1 class="heading ">heading 1</h1>
+
+
+    <h2 class="heading ">heading 2</h2>
+
+
+    <h3 class="heading ">heading 3</h3>
+
+
+    <button>sumbit</button>
+
+
+    <button id="b">submit</button>
+
+
+    <button style="background-color: hotpink;">sumbit</button>
+
+
+    <style>
+
+
+        #b{
+
+
+            background-color: blue;
+
+
+        }
+
+
+    </style>
+
+
+    
+
+
+</body>
+
+
+</html>
+
+Collapse file: box.css‎box.css
+Copy file name to clipboard+58Lines changed: 58 additions & 0 deletions
+Original file line numberDiff line numberDiff line change
+@@ -0,0 +1,58 @@
+
+
+#d1{
+
+
+     background-color: rgb(253, 38, 0);
+
+
+    height: 100px;
+
+
+    width:100px;
+
+
+    padding: 10px;
+
+
+    border: 5px solid black;
+
+
+    margin: 10px;
+
+
+    border-radius: 50%;
+
+
+}
+
+
+#d2{
+
+
+    background-color: yellow;
+
+
+    height: 100px;
+
+
+    width:100px;
+
+
+    padding: 10px;
+
+
+    border: 5px solid black;
+
+
+    margin: 10px;
+
+
+    border-radius: 50%;
+
+
+}
+
+
+#d3{
+
+
+    background-color: green;
+
+
+    height: 100px;
+
+
+    width:100px;
+
+
+    padding: 10px;
+
+
+    border: 5px solid black;
+
+
+    margin: 10px;
+
+
+    border-radius: 50%;
+
+
+}
+
+
+h1{
+
+
+    color: blueviolet;
+
+
+    direction: rtl;
+
+
+    letter-spacing: 10px;
+
+
+    text-align: center;
+
+
+    text-decoration: overline;
+
+
+    text-transform: uppercase;
+
+
+    text-shadow: 10px 10px 10px blue;
+
+
+}
+
+
+img{
+
+
+    width: 300px;
+
+
+    height: 300px;
+
+
+    border: 10px solid black;
+
+
+    border-radius: 50%;
+
+
+    align-items: center;
+
+
+}
+
+
+#d1:hover{
+
+
+    background-color: darkred;
+
+
+    box-shadow: 0 0 15px;
+
+
+    transform:scale(1.1);
+
+
+}
+
+
+#d2:hover{
+
+
+    background-color: gold;
+
+
+    box-shadow: 0 0 15px;
+
+
+    transform:scale(1.1);
+
+
+}
+
+
+#d3:hover{
+
+
+    background-color: darkgreen;
+
+
+    box-shadow: 0 0 15px;
+
+
+    transform:scale(1.1);
+
+
+}
+
+Collapse file: box.html‎box.html
+Copy file name to clipboard+15Lines changed: 15 additions & 0 deletions
+Original file line numberDiff line numberDiff line change
+@@ -0,0 +1,15 @@
+
+
+<!DOCTYPE html>
+
+
+<html lang="en">
+
+
+<head>
+
+
+    <meta charset="UTF-8">
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <title>Document</title>
+
+
+    <link rel="stylesheet" href="box.css">
+
+
+</head>
+
+
+<body>
+
+
+    <div id="d1"></div>
+
+
+    <div id="d2"></div>
+
+
+    <div id="d3"></div>
+
+
+   
+
+
+</body>
+
+
+</html>
+
+Collapse file: ee2faa1840e5c3c292643c386ee3a5cf.jpg‎ee2faa1840e5c3c292643c386ee3a5cf.jpg
+Copy file name to clipboard34.8 KB
+Display the source diff
+Display the rich diff
+Viewer requires iframe.
+Collapse file: index.html‎index.html
+Copy file name to clipboard
+Expand all lines: index.html+146Lines changed: 146 additions & 0 deletions
+
+
+Large diffs are not rendered by default.
+Collapse file: second.html‎second.html
+Copy file name to clipboard+15Lines changed: 15 additions & 0 deletions
+Original file line numberDiff line numberDiff line change
+@@ -0,0 +1,15 @@
+
+
+<!DOCTYPE html>
+
+
+<html lang="en">
+
+
+<head>
+
+
+    <meta charset="UTF-8">
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <title>Document</title>
+
+
+</head>
+
+
+<body>
+
+
+    <h1>Hello</h1>
+
+
+    <h2> YOU FOOL </h2>
+
+
+    
+
+
+    <a href="https://shrideviengineering.org/">Click Here To View Our Profile</a>
+
+
+
+
+
+</body>
+
+
+</html>
+
+Collapse file: style.css‎style.css
+Copy file name to clipboard+4Lines changed: 4 additions & 0 deletions
+Original file line numberDiff line numberDiff line change
+@@ -0,0 +1,4 @@
+
+
+body{
+
+
+    background-color: aqua;
+
+
+    color: blueviolet;
+
+
+}
+
+Collapse file: text.css‎text.css
+Copy file name to clipboard+19Lines changed: 19 additions & 0 deletions
+Original file line numberDiff line numberDiff line change
+@@ -0,0 +1,19 @@
+
+
+h1{
+
+
+    color: blueviolet;
+
+
+    direction:rtl;
+
+
+    letter-spacing: 10px;
+
+
+    text-align: center;
+
+
+    text-decoration: line line-through;
+
+
+    text-transform: uppercase;
+
+
+    text text-shadow: 15px 15px 15px gray;
+
+
+}
+
+
+body{
+
+
+    background-color: blanchedalmond;
+
+
+
+
+
+}
+
+
+img {
+
+
+    width:500px;
+
+
+    height:500px;
+
+
+    border:10px solid black;
+
+
+    filter:drop-shadow(5px 10px 8px);
+
+
+}
+
+Collapse file: text.html‎text.html
+Copy file name to clipboard+15Lines changed: 15 additions & 0 deletions
+Original file line numberDiff line numberDiff line change
+@@ -0,0 +1,15 @@
+
+
+<!DOCTYPE html>
+
+
+<html lang="en">
+
+
+<head>
+
+
+    <meta charset="UTF-8">
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <title>Document</title>
+
+
+    <link rel="stylesheet" href="text.css">
+
+
+
+
+
+</head>
+
+
+<body>
+
+
+    <h1>CHANDHU</h1>
+
+
+   <h2> OGGY </h2>
+
+
+    <img src="https://mrwallpaper.com/images/hd/wondering-oggy-and-the-cockroaches-zs3lqxx67e3gqd31.jpg" alt="">
+
+
+</body>
+
+
+</html>
+
+Collapse file: time table.css‎time table.css
+Copy file name to clipboard+21Lines changed: 21 additions & 0 deletions
+Original file line numberDiff line numberDiff line change
+@@ -0,0 +1,21 @@
+
+
+.mon{
+
+
+    background-color: rgb(21, 132, 230);
+
+
+
+
+
+    color: rgb(169, 212, 39);
+
+
+}
+
+
+.tue{
+
+
+    background-color: aqua;
+
+
+    color: rgb(24, 17, 223);
+
+
+}
+
+
+.wed{
+
+
+    background-color: cadetblue ;
+
+
+    color: cornsilk;
+
+
+}
+
+
+.thur{
+
+
+    background-color: black;
+
+
+    color: bisque;
+
+
+}
+
+
+.fri{
+
+
+    background-color: darkgreen;
+
+
+    color: lightcyan;
+
+
+}
+
+Collapse file: timetable.html‎timetable.html
+Copy file name to clipboard+57Lines changed: 57 additions & 0 deletions
+Original file line numberDiff line numberDiff line change
+@@ -0,0 +1,57 @@
+
+
+<!DOCTYPE html>
+
+
+<html lang="en">
+
+
+<head>
+
+
+    <meta charset="UTF-8">
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <title>Document</title>
+
+
+    <link rel="stylesheet" href="time table.css">
+
+
+</head>
+
+
+<body>
+
+
+    <table border="3">
+
+
+        <hr>
+
+
+        <tr style="background-color: blanchedalmond;">
+
+
+           <th colspan="6">Time table </th>
+
+
+        </tr>
+
+
+        <tr style="background-color: cadetblue;">
+
+
+           <td rowspan="6">Hours</td>
+
+
+           <td class="mon">mon</td>
+
+
+           <td class="tue">tue</td>
+
+
+           <td class="wed">wed</td>
+
+
+           <td class="thur">thur</td>
+
+
+           <td class="fri">fri</td>
+
+
+           
+
+
+        </tr>
+
+
+        <tr style="background-color: chocolate;">
+
+
+           <td class="mon">science</td>
+
+
+           <td class="tue">maths</td>
+
+
+           <td class="wed">science</td>
+
+
+           <td  class="thur">maths</td>
+
+
+           <td class="fri">arts</td>
+
+
+        </tr>
+
+
+        <tr style ="background-color: chocolate;">
+
+
+           <td class="mon">science</td>
+
+
+           <td class="tue">maths</td>
+
+
+           <td class="wed">science</td>
+
+
+           <td  class="thur">maths</td>
+
+
+           <td class="fri">arts</td>
+
+
+        </tr>
+
+
+        <tr style ="background-color: cornsilk;">
+
+
+           <th colspan="5">lunch</th>
+
+
+        </tr>
+
+
+        <tr style ="background-color: chocolate;";>
+
+
+           <td class="mon">science</td>
+
+
+           <td class="tue">maths</td>
+
+
+           <td class="wed">science</td>
+
+
+           <td  class="thur">maths</td>
+
+
+           <td class="fri" rowspan="2">project</td>
+
+
+        </tr>
+
+
+        <tr style ="background-color: chocolate;">
+
+
+           <td class="mon">science</td>
+
+
+           <td class="tue">maths</td>
+
+
+           <td class="wed">science</td>
+
+
+           <td  class="thur">maths</td>
+
+
+         
+
+
+        </tr>
+
+
+     
+
+
+</body>
+
+
+</html>
